@@ -1,0 +1,18 @@
+{
+  "name": "26scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "getcreditscores.us ◄ Get Your FREE Credit Score getcreditscores.us, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "getcreditscores.us",
+    "repair credit score",
+    "credit card with 640 credit score",
+    "how credit score goes up",
+    "can credit score go above 850"
+  ],
+  "repository": "https://github.com/truelestor/26scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
